@@ -10,3 +10,4 @@
 Max-555-cpu/Max-555-cpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+platform-name/package-name
